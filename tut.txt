@@ -1,1 +1,1 @@
-bash killed.sh <input files>
+bash destroyer.sh <input files> <effect imagemagick>
